@@ -18,7 +18,8 @@ seguem abaixo.
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via MidJourney e Meta IA
 
-Abaixo segue o Ebook: 
+Abaixo segue o Ebook: https://github.com/carlaip/prompts-recipe-to-create-a-ebook/blob/main/EBOOK%20curso%20--MS7504NB701.pdf
+
 
 
 
