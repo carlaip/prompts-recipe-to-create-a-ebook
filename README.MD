@@ -18,7 +18,6 @@ seguem abaixo.
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via MidJourney e Meta IA
 
-
 Abaixo segue o Ebook: 
 
 
