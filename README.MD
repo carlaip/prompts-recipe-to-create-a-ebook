@@ -19,7 +19,7 @@ seguem abaixo.
 - Imagens geradas via MidJourney e Meta IA
 
 
-Abaixo segue o Ebook:
+Abaixo segue o Ebook: 
 
 
 
