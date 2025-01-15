@@ -11,11 +11,12 @@ seguem abaixo.
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- Meta IA
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via MidJourney e Meta IA
 
 
 Abaixo segue o Ebook:
